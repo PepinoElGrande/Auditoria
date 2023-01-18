@@ -1,0 +1,4 @@
+nombre :pepe
+apellidos :c
+direccion :s
+telefono :33
